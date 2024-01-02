@@ -1,0 +1,49 @@
+{
+  "Student": [
+    {
+      "ID": 0,
+      "Name": "Vũ Văn Sơn",
+      "Age": "18",
+      "Address": "Nam Định",
+      "Ngaysinh": "1/1/2002",
+      "Hinhanh": "",
+      "Ngaygio": ""
+    },
+    {
+      "ID": 1,
+      "Name": "Nguyễn Xuân Thực",
+      "Age": "18",
+      "Address": "Hà Nội",
+      "Ngaysinh": "2/1/2002",
+      "Hinhanh": "",
+      "Ngaygio": ""
+    },
+    {
+      "ID": 2,
+      "Name": "Nguyễn Trọng Hiệp",
+      "Age": "18",
+      "Address": "Bắc Ninh",
+      "Ngaysinh": "3/1/2002",
+      "Hinhanh": "",
+      "Ngaygio": ""
+    },
+    {
+      "ID": 3,
+      "Name": "Nguyễn Minh Sâm",
+      "Age": "18",
+      "Address": "Vĩnh Phúc",
+      "Ngaysinh": "4/1/2002",
+      "Hinhanh": "",
+      "Ngaygio": ""
+    },
+    {
+      "ID": 4,
+      "Name": "Vũ Hoài Ngọc",
+      "Age": "18",
+      "Address": "Hải Dương",
+      "Ngaysinh": "5/1/2002",
+      "Hinhanh": "",
+      "Ngaygio": ""
+    }
+  ]
+}
